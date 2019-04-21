@@ -1,0 +1,11 @@
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\bin\Debug\netcoreapp2.1\Activity3_URQUICO.deps.json
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\bin\Debug\netcoreapp2.1\Activity3_URQUICO.runtimeconfig.json
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\bin\Debug\netcoreapp2.1\Activity3_URQUICO.runtimeconfig.dev.json
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\bin\Debug\netcoreapp2.1\Activity3_URQUICO.dll
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\bin\Debug\netcoreapp2.1\Activity3_URQUICO.pdb
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\obj\Debug\netcoreapp2.1\Activity3_URQUICO.csprojAssemblyReference.cache
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\obj\Debug\netcoreapp2.1\Activity3_URQUICO.csproj.CoreCompileInputs.cache
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\obj\Debug\netcoreapp2.1\Activity3_URQUICO.AssemblyInfoInputs.cache
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\obj\Debug\netcoreapp2.1\Activity3_URQUICO.AssemblyInfo.cs
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\obj\Debug\netcoreapp2.1\Activity3_URQUICO.dll
+d:\Desktop\C#\Activity(C#)\Activity3_URQUICO\obj\Debug\netcoreapp2.1\Activity3_URQUICO.pdb

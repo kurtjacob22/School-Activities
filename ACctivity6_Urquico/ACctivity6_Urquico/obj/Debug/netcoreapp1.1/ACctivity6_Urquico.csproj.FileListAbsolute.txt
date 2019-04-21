@@ -1,0 +1,9 @@
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\bin\Debug\netcoreapp1.1\ACctivity6_Urquico.deps.json
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\bin\Debug\netcoreapp1.1\ACctivity6_Urquico.runtimeconfig.json
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\bin\Debug\netcoreapp1.1\ACctivity6_Urquico.runtimeconfig.dev.json
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\bin\Debug\netcoreapp1.1\ACctivity6_Urquico.dll
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\bin\Debug\netcoreapp1.1\ACctivity6_Urquico.pdb
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\obj\Debug\netcoreapp1.1\ACctivity6_Urquico.csprojResolveAssemblyReference.cache
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\obj\Debug\netcoreapp1.1\ACctivity6_Urquico.AssemblyInfo.cs
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\obj\Debug\netcoreapp1.1\ACctivity6_Urquico.dll
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\ACctivity6_Urquico\ACctivity6_Urquico\obj\Debug\netcoreapp1.1\ACctivity6_Urquico.pdb

@@ -1,0 +1,11 @@
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\bin\Debug\netcoreapp2.1\Activty4_1_Urquico.deps.json
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\bin\Debug\netcoreapp2.1\Activty4_1_Urquico.runtimeconfig.json
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\bin\Debug\netcoreapp2.1\Activty4_1_Urquico.runtimeconfig.dev.json
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\bin\Debug\netcoreapp2.1\Activty4_1_Urquico.dll
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\bin\Debug\netcoreapp2.1\Activty4_1_Urquico.pdb
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\obj\Debug\netcoreapp2.1\Activty4_1_Urquico.csprojAssemblyReference.cache
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\obj\Debug\netcoreapp2.1\Activty4_1_Urquico.csproj.CoreCompileInputs.cache
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\obj\Debug\netcoreapp2.1\Activty4_1_Urquico.AssemblyInfoInputs.cache
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\obj\Debug\netcoreapp2.1\Activty4_1_Urquico.AssemblyInfo.cs
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\obj\Debug\netcoreapp2.1\Activty4_1_Urquico.dll
+C:\Users\cl2-35\Desktop\ICT11A_URQUICO\Activty4_1_Urquico\Activty4_1_Urquico\obj\Debug\netcoreapp2.1\Activty4_1_Urquico.pdb

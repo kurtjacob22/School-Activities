@@ -1,0 +1,8 @@
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\bin\Debug\netcoreapp1.1\Activity2_Urquico.deps.json
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\bin\Debug\netcoreapp1.1\Activity2_Urquico.runtimeconfig.json
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\bin\Debug\netcoreapp1.1\Activity2_Urquico.runtimeconfig.dev.json
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\obj\Debug\netcoreapp1.1\Activity2_Urquico.AssemblyInfo.cs
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\bin\Debug\netcoreapp1.1\Activity2_Urquico.dll
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\bin\Debug\netcoreapp1.1\Activity2_Urquico.pdb
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\obj\Debug\netcoreapp1.1\Activity2_Urquico.dll
+C:\Users\CL3-35\Desktop\ICT11A_URQUICO\Activity2_Urquico\obj\Debug\netcoreapp1.1\Activity2_Urquico.pdb

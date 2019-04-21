@@ -1,0 +1,9 @@
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\bin\Debug\netcoreapp1.1\Activity1_Urquico.deps.json
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\bin\Debug\netcoreapp1.1\Activity1_Urquico.runtimeconfig.json
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\bin\Debug\netcoreapp1.1\Activity1_Urquico.runtimeconfig.dev.json
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\bin\Debug\netcoreapp1.1\Activity1_Urquico.dll
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\bin\Debug\netcoreapp1.1\Activity1_Urquico.pdb
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\obj\Debug\netcoreapp1.1\Activity1_Urquico.csprojResolveAssemblyReference.cache
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\obj\Debug\netcoreapp1.1\Activity1_Urquico.AssemblyInfo.cs
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\obj\Debug\netcoreapp1.1\Activity1_Urquico.dll
+Y:\Activity1_Urquico\ICT11A_URQUICO\Activity1_Urquico\obj\Debug\netcoreapp1.1\Activity1_Urquico.pdb
