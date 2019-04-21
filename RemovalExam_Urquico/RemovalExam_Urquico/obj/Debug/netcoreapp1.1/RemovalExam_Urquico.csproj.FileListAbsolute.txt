@@ -1,0 +1,9 @@
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\bin\Debug\netcoreapp1.1\RemovalExam_Urquico.deps.json
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\bin\Debug\netcoreapp1.1\RemovalExam_Urquico.runtimeconfig.json
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\bin\Debug\netcoreapp1.1\RemovalExam_Urquico.runtimeconfig.dev.json
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\bin\Debug\netcoreapp1.1\RemovalExam_Urquico.dll
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\bin\Debug\netcoreapp1.1\RemovalExam_Urquico.pdb
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\obj\Debug\netcoreapp1.1\RemovalExam_Urquico.csprojResolveAssemblyReference.cache
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\obj\Debug\netcoreapp1.1\RemovalExam_Urquico.AssemblyInfo.cs
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\obj\Debug\netcoreapp1.1\RemovalExam_Urquico.dll
+C:\Users\CL3-41\Desktop\RemovalExam_Urquico\RemovalExam_Urquico\obj\Debug\netcoreapp1.1\RemovalExam_Urquico.pdb

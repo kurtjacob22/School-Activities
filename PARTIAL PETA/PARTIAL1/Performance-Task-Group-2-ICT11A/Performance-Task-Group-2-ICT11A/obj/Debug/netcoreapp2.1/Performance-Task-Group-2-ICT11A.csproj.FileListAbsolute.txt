@@ -1,0 +1,11 @@
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\bin\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.deps.json
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\bin\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.runtimeconfig.json
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\bin\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.runtimeconfig.dev.json
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\bin\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.dll
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\bin\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.pdb
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\obj\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.csprojAssemblyReference.cache
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\obj\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.csproj.CoreCompileInputs.cache
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\obj\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.AssemblyInfoInputs.cache
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\obj\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.AssemblyInfo.cs
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\obj\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.dll
+C:\Users\CL2-18\Desktop\GROUP2-ICT11A\Performance-Task-Group-2-ICT11A\Performance-Task-Group-2-ICT11A\obj\Debug\netcoreapp2.1\Performance-Task-Group-2-ICT11A.pdb
